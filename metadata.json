@@ -1,0 +1,5 @@
+{
+  "name": "VisionCrafter AI",
+  "description": "An all-in-one AI media app that generates high-quality images, animated videos, and cinematic videos from text prompts or uploaded images. It also automatically creates viral captions and can integrate with automation platforms like Zapier and IFTTT.",
+  "requestFramePermissions": []
+}
